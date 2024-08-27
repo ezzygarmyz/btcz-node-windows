@@ -12,7 +12,7 @@ sudo apt install build-essential libtool autotools-dev automake pkg-config bsdma
 ### Build
 
 ```
-git clone --single-branch --branch 2.0.9-dev6 https://github.com/MarkLTZ/bitcoinz.git
+git clone https://github.com/btcz/bitcoinz.git
 
 cd bitcoinz/depends
 
